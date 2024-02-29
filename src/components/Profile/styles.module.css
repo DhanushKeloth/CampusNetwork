@@ -1,12 +1,12 @@
 
 .container {
-  height: 100vh; /* 100% of the viewport height */
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-/* Add more styles as needed */
+
 
 @media (max-width: 600px) {
   .container {
@@ -14,4 +14,4 @@
   }
 }
 
-/* Add more media queries as needed */
+

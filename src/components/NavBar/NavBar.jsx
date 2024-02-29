@@ -21,7 +21,7 @@ const NavBar = () => {
         position='sticky'
         sx={{ 
           backgroundColor:'#F57D1F',
-          // Ensure AppBar is above Drawer
+         
         }}
       >
         {/* tools */}

@@ -83,7 +83,7 @@ const CreatePost = () => {
             image={croppedImage}
           />
           <Typography variant='h6'>Cropped Image</Typography>
-          {/* Include additional UI or actions for the cropped image if needed */}
+         
         </>
       )}
     </Box>

@@ -142,7 +142,7 @@ const Post = () => {
                 placeholder='Comment..'
                 sx={{
                   paddingRight: '40px',
-                  flex: 1, // Takes up remaining space
+                  flex: 1, 
                   '& label.Mui-focused': {
                     color: 'white',
                   },
@@ -166,7 +166,7 @@ const Post = () => {
                 sx={{
                   position: 'absolute',
                   right: '0',
-                  marginLeft: '10px', // Adjust the spacing between the text and the icon
+                  marginLeft: '10px', 
                 }}
               >
                 <Send />

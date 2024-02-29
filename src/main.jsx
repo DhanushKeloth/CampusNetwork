@@ -16,7 +16,7 @@ const theme=createTheme({
   },
   palette: {
     primary: {
-      main: '#F57D1F', // Use this color for the indicator
+      main: '#F57D1F', 
     }}
 });
 

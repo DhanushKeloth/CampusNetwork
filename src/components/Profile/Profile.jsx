@@ -42,11 +42,11 @@ const Profile = () => {
   const [profileData, setProfileData] = useState({
 
     username: 'your_username',
-    profilePicture:'profilePicture', // Replace with your actual username
-    fullName: 'John Doe', // Replace with your full name
+    profilePicture:'profilePicture', 
+    fullName: 'hahaha', 
     bio: 'This is my bio',
-    followers: 1000, // Update with your actual follower count
-    following: 500, // Update with your actual following count
+    followers: 1000, 
+    following: 500,
     posts: [
       { id: 1, image: 'https://mui.com/static/images/cards/contemplative-reptile.jpg' },
       { id: 2, image: 'https://mui.com/static/images/cards/paella.jpg' },
@@ -105,8 +105,7 @@ const Profile = () => {
       </Stack>
      
 
-      {/* Stories (if needed) */}
-      {/* ... */}
+      
     </Container>
   );
 };
